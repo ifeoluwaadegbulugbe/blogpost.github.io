@@ -1,0 +1,72 @@
+body{
+    background-color:  hsl(47, 88%, 63%) ;
+    font-family: "Figtree", sans-serif;
+}
+.post{
+    background-color: #ffffff;
+    margin-left: 470px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-right: 470px;
+    border-radius: 15px;
+    border: 2px solid hsl(0, 0%, 7%);
+    box-shadow: 8px 8px 0px 0px #000;
+}
+img{
+   margin-left: 25px;
+   margin-right: 25px;
+    padding-top: 15px;
+    border-radius: 17px;
+}
+p{
+    font-size: 16px;
+    margin-left: 15px;
+}
+.pp{
+    font-size: 16px;
+    margin-left: 15px;
+    color: gray;
+}
+.pic{
+    padding-bottom: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 800px;
+}
+.learn{
+    background:hsl(47, 88%, 63%)  ;
+    border-radius: 10px;
+    margin-right: 260px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 800;
+    padding-left: 19px;
+}
+h1{
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 800px;
+    
+} 
+h1:hover{
+    color:hsl(47, 88%, 63%) ;
+}
+
+.container-profile {
+    display: flex;
+
+  
+  }
+.name {
+    font-weight: 600;
+    font-size: 16px;
+    padding-right: 100px;
+    margin-top: 30px;
+  }
+img{
+    padding-bottom: 15px;
+}
+@media screen and (max-width:600px){.topnav input[type=text]{
+    border: 1px solid ;
+}
+}
